@@ -1,0 +1,7 @@
+#!/bin/bash
+if [ ! -n "$LANG" ]
+then
+  LANG="en_US.utf-8"
+fi
+export LANG
+exec /home/ec2-user/.c9/sam-cli-venv/bin/sam "$@"
