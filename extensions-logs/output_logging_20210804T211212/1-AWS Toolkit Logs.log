@@ -1,0 +1,6 @@
+Error logs for this session are permanently stored in /home/ec2-user/environment/.c9/amazonwebservices.aws-toolkit-vscode/logs/aws_toolkit_20210804T211213.log
+2021-08-04 21:12:13 [ERROR]: log level: info
+2021-08-04 21:12:13 [INFO]: Retrieving AWS endpoint data
+2021-08-04 21:12:13 [INFO]: OS:  Linux x64 4.14.238-182.422.amzn2.x86_64
+2021-08-04 21:12:13 [INFO]: AWS Cloud9 Extension Host Version:  1.42.0AWS Toolkit Version:  1.27.0-6c4644db65c7
+2021-08-04 21:17:14 [INFO]: Successfully sent a telemetry batch of 4
